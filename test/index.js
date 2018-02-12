@@ -3,7 +3,7 @@
 
 const request = require('supertest')
 const assert = require('assert')
-const serve = require('..')
+const serve = require('../legacy')
 const Koa = require('koa')
 
 describe('serve(root)', function () {

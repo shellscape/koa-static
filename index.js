@@ -8,7 +8,7 @@
 const debug = require('debug')('koa-static')
 const { resolve } = require('path')
 const assert = require('assert')
-const send = require('koa-send')
+const send = require('@shellscape/koa-send/legacy')
 
 /**
  * Expose `serve()`.
