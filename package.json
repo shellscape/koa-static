@@ -2,7 +2,7 @@
   "name": "@shellscape/koa-static",
   "description": "Static file serving middleware for koa",
   "repository": "shellscape/koa-static",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "keywords": [
     "koa",
     "middleware",
